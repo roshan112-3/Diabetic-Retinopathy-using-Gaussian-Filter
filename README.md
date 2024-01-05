@@ -1,1 +1,1 @@
-
+The objective is to develop a methodology for categorizing retinal images that is more effective at discriminating between the five severity classifications of diabetic retinopathy than current automated grading systems.
