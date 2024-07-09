@@ -1,6 +1,6 @@
 # Abstract
 The retina is an essential component of the visual system, and maintaining eyesight depends on the timely and accurate detection of disorders. The early-stage detection and severity classification of diabetic retinopathy (DR), a significant risk to the public's health is the primary goal of this work. This study compares the outcomes of various deep learning models, including InceptionNetV3, DenseNet121, and other CNN-based models, utilizing a variety of image filters, including Gaussian, grayscale, and Gabor. These models could detect subtle pathological alterations and use that information to estimate the risk of retinal illnesses. The objective is to improve the diagnostic processes for DR, the primary cause of diabetes-related blindness, by utilizing deep learning models. A comparative analysis between Greyscale, Gaussian and Gabor filters has been provided after applying these filters on the retinal images. The Gaussian filter has been identified as the most promising filter by resulting in 96% accuracy using InceptionNetV3.
 
-Link to the paper on Arxiv : https://arxiv.org/abs/2309.15216
+Link to the paper on IEEE Xplore : [Link](https://ieeexplore.ieee.org/document/10543363)
 
-This paper was submitted to an IEEE Conference and is currently under review - I2CT
+This paper was submitted to an IEEE Conference and was published in the proceedings of I2CT
